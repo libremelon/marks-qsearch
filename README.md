@@ -1,6 +1,7 @@
 # Question Search App
 
 A Python-based **Question Search App** built with **PyQt6** for UI and **asyncio** for efficient asynchronous querying. This project retrieves and displays matching questions from the GetMarks API.
+<img src="https://github.com/user-attachments/assets/35a505c4-d559-452b-852e-e0c40accceb4">
 
 ## Features
 - **Subject Selection:** Choose from Physics, Chemistry, and Maths (Mains/Advanced).
